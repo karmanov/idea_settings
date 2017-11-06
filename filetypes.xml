@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="LICENCE" type="Native" />
       <mapping ext="php" type="PHP" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
