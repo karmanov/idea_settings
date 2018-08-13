@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="psffs" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
