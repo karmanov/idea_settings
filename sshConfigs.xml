@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="ec2-54-77-223-66.eu-west-1.compute.amazonaws.com" id="880c9c44-802e-4875-9011-0daa14c70924" keyPath="$USER_HOME$/.ssh/itd_prod_key.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;}}" host="ec2-54-77-223-66.eu-west-1.compute.amazonaws.com" id="880c9c44-802e-4875-9011-0daa14c70924" keyPath="$USER_HOME$/.ssh/itd_prod_key.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
