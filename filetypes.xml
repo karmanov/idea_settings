@@ -5,6 +5,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="deployment_script" type="PLAIN_TEXT" />
+      <mapping ext="jsonnet" type="PLAIN_TEXT" />
+      <mapping ext="libsonnet" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping pattern="hibernate" type="Properties" />
       <mapping pattern="5698060805" type="XML" />
